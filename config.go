@@ -158,10 +158,10 @@ var defaultConfig = `
 	keep = false
 	directory = "downloads"
 	interval = 0
-	randomize = false
+	randomize = true
 	
 	[search]
-	tags = ""
+	tags = "fantasy"
 	
 	general = true
 	anime = true
